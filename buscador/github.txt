@@ -1,0 +1,5 @@
+Luis Eduardo Romero Paredes
+NextU
+Proyecto Buscador
+
+github url: https://github.com/Luiseduromp/NextU-Backend-Buscador
